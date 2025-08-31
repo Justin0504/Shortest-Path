@@ -8,7 +8,7 @@ A C++ implementation for finding shortest paths in directed graphs with support 
 - Provides the testing framework for evaluating the implementation
 - Handles input parsing and output formatting
 - Calls the required methods from the shortestP2P implementation
-- **Note:** This file should not be included in submissions
+
 
 ### shortestP2P.cpp (Core Implementation)
 Contains the main algorithm implementation with two required methods:
